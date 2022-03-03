@@ -1,0 +1,17 @@
+[{
+         "Report_Month": "August",
+        "Occurrence_Month": "August",
+        "Occurrence_DayOfWeek": "Monday",
+        "Division": "D22",
+        "NeighbourhoodName": "Kingsway South (15)",
+        "Premises_Type": "House",
+        "Location_Type": "Single Home, House (Attach Garage, Cottage, Mobile)",
+        "Bike_Make": "SPECIALIZED", 
+        "Bike_Model": " ",
+        "Bike_Type": "MT",
+        "Bike_Colour": "BLKBLU",
+        "Longitude": -79.50980395,
+        "Latitude": 43.65910215,
+        "Bike_Speed": 21,
+        "Cost_of_Bike": 500
+    }]
